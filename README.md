@@ -20,6 +20,12 @@
 
 ![小程序码](https://raw.githubusercontent.com/yxcs/poems-db/master/mini-qrcode.png)
 
+
+### 打赏
+
+如果觉得有用可以打赏哦！
+
+![微信收款码](https://raw.githubusercontent.com/yxcs/poems-db/master/WechatIMG204.jpeg)
 ### 如果感兴趣可以添加个人微信
 
 微信号：lin410725008  
@@ -30,6 +36,8 @@
 
 ### 索引导航
 
+#### 古诗文
+
 - poems1.json 古诗文的第一部分，1-50000
 - poems2.json 古诗文的第二部分，50001-100000
 - poems3.json 古诗文的第三部分，100001-160000
@@ -38,3 +46,10 @@
 - poems-category.json 全部分类，1-163
 - poems-cipai.json 全部词牌，1-1667
 - poems-dynasty.json 全部朝代，1-70
+
+#### 古籍
+
+- 经部 21部
+- 史部 68部
+- 子部 264部
+- 集部 20部
